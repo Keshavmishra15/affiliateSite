@@ -30,26 +30,26 @@ showSlides();
 
 const products = [
   {
-    title: "Electronics",
+    title: "Oneplus",
     description:
       "",
     image: "images/image1.jpg",
     link: "YOUR_AMAZON_AFFILIATE_LINK",
   },
   {
-    title: "Home Appliences",
+    title: "Motorolla",
     description: "",
     image: "images/image2.png",
     link: "YOUR_FLIPKART_AFFILIATE_LINK",
   },
   {
-    title: "kitchen Appliences",
-    description: "",
+    title: "Vivo",
+    description: "iQOO Z10x 5G (Titanium, 8GB RAM, 128GB Storage) | 6500 mAh Large Capacity Battery | Dimensity 7300 Processor | Military-Grade Certified Durability",
     image: "images/image3.jpg",
-    link: "YOUR_AMAZON_AFFILIATE_LINK",
+    link: "https://amzn.to/3YA4mlK",
   },
   {
-    title: "Unique Gadgets",
+    title: "Infinix",
     description: "",
     image: "images/image.jpg",
     link: "YOUR_AMAZON_AFFILIATE_LINK",
