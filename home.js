@@ -45,7 +45,7 @@ const products = [
   {
     title: "Vivo",
     description: "iQOO Z10x 5G (Titanium, 8GB RAM, 128GB Storage) | 6500 mAh Large Capacity Battery | Dimensity 7300 Processor | Military-Grade Certified Durability",
-    image: "images/image3.jpg",
+    image: "images/vivo.jpg",
     link: "https://amzn.to/3YA4mlK",
   },
   {
