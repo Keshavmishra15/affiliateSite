@@ -39,7 +39,7 @@ const products = [
   {
     title: "Motorolla",
     description: "Motorola Edge 50 Fusion 5G (Marshmallow Blue, 8GB RAM, 128GB Storage)",
-    image: "images/motorola.png",
+    image: "images/motorola.jpg",
     link: "https://amzn.to/4jN8EhU",
   },
   {
