@@ -33,13 +33,13 @@ const products = [
     title: "Oneplus",
     description:
       "OnePlus Nord CE4 Lite 5G (Super Silver, 8GB RAM, 128GB Storage)",
-    image: "images/image1.jpg",
+    image: "images/oneplus.jpg",
     link: "https://amzn.to/3Za3tQU",
   },
   {
     title: "Motorolla",
     description: "Motorola Edge 50 Fusion 5G (Marshmallow Blue, 8GB RAM, 128GB Storage)",
-    image: "images/image2.png",
+    image: "images/motorola.png",
     link: "https://amzn.to/4jN8EhU",
   },
   {
@@ -51,7 +51,7 @@ const products = [
   {
     title: "Infinix",
     description: "Infinix GT 20 Pro 5G (Mecha Silver, 8GB RAM, 256GB Storage) | Up to 16GB Extented RAM | 6.78 AMOLED Display | 108MP+2MP+2MP | 32MP Front Camera | MediaTek Dimensity 8200 Processor | 45W Fast Charging",
-    image: "images/image.jpg",
+    image: "images/infinix.jpg",
     link: "https://amzn.to/3YHitWq",
   },
 ];
