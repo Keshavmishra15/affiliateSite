@@ -50,7 +50,7 @@ const products = [
   },
   {
     title: "Infinix",
-    description: "Infinix GT 20 Pro 5G (Mecha Silver, 8GB RAM, 256GB Storage) | Up to 16GB Extented RAM | 6.78" AMOLED Display | 108MP+2MP+2MP | 32MP Front Camera | MediaTek Dimensity 8200 Processor | 45W Fast Charging",
+    description: "Infinix GT 20 Pro 5G (Mecha Silver, 8GB RAM, 256GB Storage) | Up to 16GB Extented RAM | 6.78 AMOLED Display | 108MP+2MP+2MP | 32MP Front Camera | MediaTek Dimensity 8200 Processor | 45W Fast Charging",
     image: "images/image.jpg",
     link: "https://amzn.to/3YHitWq",
   },
